@@ -113,9 +113,3 @@ npm run build
 - [ ] Deployment
 
 ---
-
-
-
----
-
-⭐ If you like this project, consider giving it a star.
