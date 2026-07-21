@@ -2,7 +2,7 @@
 
 A modern and responsive personal portfolio built with **React**, **Vite**, and **Tailwind CSS** to showcase my projects, technical skills, certifications, and learning journey as a Computer Science Engineering student. 
 
->## 🚧 Project Status
+>## 🚧 Project Status 
 
 This project is actively being developed and will continue to evolve as I build new projects and improve my skills.
  
