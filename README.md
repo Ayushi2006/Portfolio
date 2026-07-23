@@ -7,7 +7,7 @@ A modern and responsive personal portfolio built with **React**, **Vite**, and *
 This project is actively being developed and will continue to evolve as I build new projects and improve my skills.
  
 --- 
- 
+  
 ## 🎯 Purpose
 
 This portfolio serves as a central place to present my work, highlight my technical skills, and document my growth in **Full-Stack Web Development**, **Artificial Intelligence**, **Data Science**, and **Open Source**.
