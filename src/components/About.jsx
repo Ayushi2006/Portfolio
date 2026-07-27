@@ -33,7 +33,7 @@ function About() {
                 className="text-xl leading-10"
                 style={{ color: "var(--text-light)" }}
               >
-                My name is{" "}
+                My name is
                 <span className="font-semibold text-purple-500">
                   Ayushi Rajak
                 </span>
@@ -47,24 +47,24 @@ function About() {
                 className="text-xl leading-10"
                 style={{ color: "var(--text-light)" }}
               >
-                Currently, I am focused on the{" "}
+                Currently, I am focused on the
                 <span className="font-semibold text-pink-500">MERN Stack</span>{" "}
                 and strengthening my problem-solving skills through{" "}
                 <span className="font-semibold text-purple-500">
                   Data Structures & Algorithms
                 </span>
-                . I am excited to explore{" "}
+                . I am excited to explore
                 <span className="font-semibold text-pink-500">
                   Artificial Intelligence
                 </span>
-                ,{" "}
+                ,
                 <span className="font-semibold text-pink-500">
                   Data Science
                 </span>
-                , and{" "}
+                , and
                 <span className="font-semibold text-pink-500">
                   Machine Learning
-                </span>{" "}
+                </span>
                 as I continue to broaden my knowledge and technical skills.
               </p>
 
@@ -72,7 +72,7 @@ function About() {
                 className="text-xl leading-10"
                 style={{ color: "var(--text-light)" }}
               >
-                My long-term goal is to become a{" "}
+                My long-term goal is to become a
                 <span className="font-semibold text-purple-500">
                   Machine Learning Engineer
                 </span>
