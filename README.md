@@ -2,6 +2,13 @@
 
 A modern and responsive personal portfolio built with **React**, **Vite**, and **Tailwind CSS** to showcase my projects, technical skills and learning journey as a Computer Science Engineering student.
 
+---
+
+## Live
+[Portfolio](https://portfolio-git-main-ayushirajak11-8156s-projects.vercel.app/)
+
+---
+
 ## Features
 
 - Responsive design for desktop and mobile
