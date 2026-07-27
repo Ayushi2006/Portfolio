@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio
 
-A modern and responsive personal portfolio built with **React**, **Vite**, and **Tailwind CSS** to showcase my projects, technical skills, and learning journey as a Computer Science Engineering student.
+A modern and responsive personal portfolio built with **React**, **Vite**, and **Tailwind CSS** to showcase my projects, technical skills and learning journey as a Computer Science Engineering student.
 
 ## ✨ Features
 
@@ -66,15 +66,6 @@ A command-line fitness tracker built with Python and MySQL.
 A browser-based JavaScript game created to practice event-driven programming.
 
 ---
-
-## 📸 Preview
-
-<img width="100%" alt="Portfolio Preview" src="YOUR_SCREENSHOT_HERE">
-
-> Replace the image above with a screenshot of your portfolio homepage.
-
----
-
 ## 💻 Installation
 
 Clone the repository
