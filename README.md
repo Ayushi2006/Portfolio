@@ -101,7 +101,7 @@ npm run build
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [( https://www.linkedin.com/in/ayushi-r/ )]
+- LinkedIn: [Ayushi R]( https://www.linkedin.com/in/ayushi-r/ )
 
 ---
 
