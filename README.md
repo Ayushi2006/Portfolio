@@ -5,7 +5,7 @@ A modern and responsive personal portfolio built with **React**, **Vite**, and *
 ---
 
 ## Live
-[Portfolio](https://portfolio-git-main-ayushirajak11-8156s-projects.vercel.app/)
+[Portfolio](https://portfolio-eosin-two-26m75td5kh.vercel.app/)
 
 ---
 
