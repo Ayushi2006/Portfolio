@@ -108,7 +108,7 @@ function About() {
               </div>
 
               <div className="glass rounded-3xl p-8 text-center transition duration-300 hover:-translate-y-2 hover:border-purple-500/40">
-                <h3 className="text-5xl font-bold text-purple-500"></h3>
+                <h3 className="text-5xl font-bold text-purple-500">6</h3>
 
                 <p
                   className="mt-4 text-base"
