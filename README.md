@@ -101,9 +101,7 @@ npm run build
 ---
 
 ## 📫 Connect With Me
-
-- GitHub: https://github.com/Ayushi2006
-- LinkedIn: *Add your LinkedIn profile here*
+- LinkedIn:(https://www.linkedin.com/in/ayushi-r/)
 
 ---
 
