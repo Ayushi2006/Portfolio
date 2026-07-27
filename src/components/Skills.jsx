@@ -25,8 +25,8 @@ function Skills() {
       title: "Frontend",
       color: "text-pink-500",
       skills: [
-        { name: "HTML5", icon: <FaHtml5 /> },
-        { name: "CSS3", icon: <FaCss3Alt /> },
+        { name: "HTML", icon: <FaHtml5 /> },
+        { name: "CSS", icon: <FaCss3Alt /> },
         { name: "JavaScript", icon: <FaJs /> },
         { name: "React", icon: <FaReact /> },
         { name: "Tailwind CSS", icon: <SiTailwindcss /> },
