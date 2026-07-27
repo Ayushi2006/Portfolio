@@ -1,8 +1,8 @@
-# 🌐 Personal Portfolio
+# Personal Portfolio
 
 A modern and responsive personal portfolio built with **React**, **Vite**, and **Tailwind CSS** to showcase my projects, technical skills and learning journey as a Computer Science Engineering student.
 
-## ✨ Features
+## Features
 
 - Responsive design for desktop and mobile
 - Light & Dark mode
@@ -15,7 +15,7 @@ A modern and responsive personal portfolio built with **React**, **Vite**, and *
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React
@@ -34,7 +34,7 @@ A modern and responsive personal portfolio built with **React**, **Vite**, and *
 
 ---
 
-## 📂 Sections
+## Sections
 
 - Home
 - About
@@ -45,7 +45,7 @@ A modern and responsive personal portfolio built with **React**, **Vite**, and *
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Essen
 A MERN stack web application built while learning full-stack development.
@@ -66,7 +66,7 @@ A command-line fitness tracker built with Python and MySQL.
 A browser-based JavaScript game created to practice event-driven programming.
 
 ---
-## 💻 Installation
+## Installation
 
 Clone the repository
 
@@ -100,15 +100,7 @@ npm run build
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 - LinkedIn: [Ayushi R]( https://www.linkedin.com/in/ayushi-r/ )
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-⭐ If you like this project, consider giving it a star.
