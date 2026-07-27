@@ -18,7 +18,7 @@ function About() {
           viewport={{ once: true }}
         >
           {/* Heading */}
-          <div className="mb-24">
+          <div className="mb-20 lg:mb-24">
             <h2 className="font-heading text-5xl lg:text-6xl font-semibold">
               About <span className="text-purple-500">Me</span>
             </h2>
@@ -27,13 +27,14 @@ function About() {
           </div>
 
           {/* Content */}
-          <div className="grid lg:grid-cols-[1.35fr_1fr] gap-24 items-center">
-            <div className="space-y-10">
+          <div className="grid lg:grid-cols-[1.35fr_1fr] gap-16 lg:gap-28 items-center">
+            {/* Left Side */}
+            <div className="max-w-3xl space-y-12 lg:space-y-14">
               <p
-                className="text-xl leading-10"
+                className="text-xl leading-[2.3rem]"
                 style={{ color: "var(--text-light)" }}
               >
-                My name is
+                My name is{" "}
                 <span className="font-semibold text-purple-500">
                   Ayushi Rajak
                 </span>
@@ -44,35 +45,38 @@ function About() {
               </p>
 
               <p
-                className="text-xl leading-10"
+                className="text-xl leading-[2.3rem]"
                 style={{ color: "var(--text-light)" }}
               >
-                Currently, I am focused on the
-                <span className="font-semibold text-pink-500">MERN Stack</span>{" "}
+                Currently, I am focused on the{" "}
+                <span className="font-semibold text-pink-500">
+                  MERN Stack
+                </span>{" "}
                 and strengthening my problem-solving skills through{" "}
                 <span className="font-semibold text-purple-500">
-                  Data Structures & Algorithms
+                  Data Structures &amp; Algorithms
                 </span>
-                . I am excited to explore
+                .{" "}
+                I am excited to explore{" "}
                 <span className="font-semibold text-pink-500">
                   Artificial Intelligence
                 </span>
-                ,
+                ,{" "}
                 <span className="font-semibold text-pink-500">
                   Data Science
                 </span>
-                , and
+                , and{" "}
                 <span className="font-semibold text-pink-500">
                   Machine Learning
-                </span>
+                </span>{" "}
                 as I continue to broaden my knowledge and technical skills.
               </p>
 
               <p
-                className="text-xl leading-10"
+                className="text-xl leading-[2.3rem]"
                 style={{ color: "var(--text-light)" }}
               >
-                My long-term goal is to become a
+                My long-term goal is to become a{" "}
                 <span className="font-semibold text-purple-500">
                   Machine Learning Engineer
                 </span>
