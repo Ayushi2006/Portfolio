@@ -1,16 +1,125 @@
-# React + Vite
+# 🌐 Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio built with **React**, **Vite**, and **Tailwind CSS** to showcase my projects, technical skills, certifications, and learning journey as a Computer Science Engineering student.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Responsive design for desktop and mobile
+- Light & Dark mode
+- Smooth scrolling navigation
+- Animated UI with Framer Motion
+- Project showcase with GitHub links
+- Skills, Education, and Contact sections
+- Resume download
+- Clean and modern interface
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+### Frontend
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Icons
+- React Icons
+- Lucide React
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📂 Sections
+
+- Home
+- About
+- Skills
+- Projects
+- Education
+- Contact
+
+---
+
+## 🚀 Featured Projects
+
+### Essen
+A MERN stack web application built while learning full-stack development.
+
+### Willow
+A digital journaling and scrapbook website with a clean and minimal interface.
+
+### Supply Mission
+A helicopter-based game developed using Matter.js and p5.js.
+
+### Trex Runner
+A recreation of Google's offline dinosaur game using JavaScript.
+
+### Fitness Tracker CLI
+A command-line fitness tracker built with Python and MySQL.
+
+### Fiddle Faddle
+A browser-based JavaScript game created to practice event-driven programming.
+
+---
+
+## 📸 Preview
+
+<img width="100%" alt="Portfolio Preview" src="YOUR_SCREENSHOT_HERE">
+
+> Replace the image above with a screenshot of your portfolio homepage.
+
+---
+
+## 💻 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/Ayushi2006/portfolio.git
+```
+
+Go to the project directory
+
+```bash
+cd portfolio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the development server
+
+```bash
+npm run dev
+```
+
+Build for production
+
+```bash
+npm run build
+```
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Ayushi2006
+- LinkedIn: *Add your LinkedIn profile here*
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+⭐ If you like this project, consider giving it a star.
