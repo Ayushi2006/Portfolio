@@ -49,15 +49,12 @@ function About() {
                 style={{ color: "var(--text-light)" }}
               >
                 Currently, I am focused on the{" "}
-                <span className="font-semibold text-pink-500">
-                  MERN Stack
-                </span>{" "}
+                <span className="font-semibold text-pink-500">MERN Stack</span>{" "}
                 and strengthening my problem-solving skills through{" "}
                 <span className="font-semibold text-purple-500">
                   Data Structures &amp; Algorithms
                 </span>
-                .{" "}
-                I am excited to explore{" "}
+                . I am excited to explore{" "}
                 <span className="font-semibold text-pink-500">
                   Artificial Intelligence
                 </span>
@@ -91,7 +88,6 @@ function About() {
             <div className="grid grid-cols-2 gap-6">
               <div className="glass rounded-3xl p-8 text-center transition duration-300 hover:-translate-y-2 hover:border-purple-500/40">
                 <h3 className="text-5xl font-bold text-purple-500">10+</h3>
-
                 <p
                   className="mt-4 text-base"
                   style={{ color: "var(--text-light)" }}
@@ -102,7 +98,6 @@ function About() {
 
               <div className="glass rounded-3xl p-8 text-center transition duration-300 hover:-translate-y-2 hover:border-pink-500/40">
                 <h3 className="text-5xl font-bold text-pink-500">20+</h3>
-
                 <p
                   className="mt-4 text-base"
                   style={{ color: "var(--text-light)" }}
@@ -113,7 +108,6 @@ function About() {
 
               <div className="glass rounded-3xl p-8 text-center transition duration-300 hover:-translate-y-2 hover:border-purple-500/40">
                 <h3 className="text-5xl font-bold text-purple-500">6</h3>
-
                 <p
                   className="mt-4 text-base"
                   style={{ color: "var(--text-light)" }}
@@ -124,7 +118,6 @@ function About() {
 
               <div className="glass rounded-3xl p-8 text-center transition duration-300 hover:-translate-y-2 hover:border-pink-500/40">
                 <h3 className="text-4xl font-bold text-pink-500">ML</h3>
-
                 <p
                   className="mt-4 text-base"
                   style={{ color: "var(--text-light)" }}
