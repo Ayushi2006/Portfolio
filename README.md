@@ -1,7 +1,7 @@
 # Personal Portfolio
    
 A modern and responsive personal portfolio built with **React**, **Vite**, and **Tailwind CSS** to showcase my projects, technical skills and learning journey as a Computer Science Engineering student.         
- 
+
 ---  
      
 ## Live 
