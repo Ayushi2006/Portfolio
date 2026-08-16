@@ -130,7 +130,7 @@ function Contact() {
               <FaEnvelope />
               Send an Email
             </a>
-          </div>
+          </div>  
         </motion.div>
       </div>
     </section>
