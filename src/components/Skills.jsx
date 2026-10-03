@@ -21,7 +21,7 @@ import {
 
 function Skills() {
   const skillCategories = [
-    {
+    { 
       title: "Frontend",
       color: "text-pink-500",
       skills: [

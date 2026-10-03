@@ -8,7 +8,7 @@ function Education() {
       degree: "Bachelor of Technology",
       specialization: "Computer Science & Engineering (AI & ML)",
       institution: "S-VYASA Deemed to be University",
-      details: "Current CGPA: 9.05",
+      details: "Current CGPA: 9.20",
     },
     {
       duration: "2025 – Present",
