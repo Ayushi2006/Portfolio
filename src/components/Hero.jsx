@@ -58,8 +58,8 @@ function Hero() {
               Resume
             </button> */}
             <a
-              href="/Ayushi Rajak_Resume.pdf"
-              download="Ayushi Rajak_Resume.pdf"
+              href="/Ayushi Rajak Resume.pdf"
+              download="Ayushi Rajak Resume.pdf"
               className="inline-flex items-center gap-3 border border-purple-500 px-8 py-4 rounded-xl hover:bg-purple-600 transition-all duration-300"
             >
               Download Resume
