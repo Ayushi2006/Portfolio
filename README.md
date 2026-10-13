@@ -10,7 +10,7 @@ A modern and responsive personal portfolio built with **React**, **Vite**, and *
 - Animated UI with Framer Motion
 - Project showcase with GitHub links
 - Skills, Education, and Contact sections
-- Resume download
+- Resume download  
 - Clean and modern interface
 
 ---
