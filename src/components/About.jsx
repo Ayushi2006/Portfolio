@@ -54,8 +54,7 @@ function About() {
                 I'm currently an intern at{" "}
                 <span className="font-semibold text-purple-500">
                   IISc (Indian Institute of Science)
-                </span>
-                 where I'm beginning a new chapter of learning and
+                </span>{" "}where I'm beginning a new chapter of learning and
                 exploration. I'm learning{" "}
                 <span className="font-semibold text-pink-500">CAD</span> to
                 broaden my technical skills and explore a different side of
