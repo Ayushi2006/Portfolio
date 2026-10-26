@@ -37,8 +37,8 @@ function Hero() {
             className="font-body leading-8 max-w-lg text-lg"
             style={{ color: "var(--text-light)" }}
           >
-            Learning full-stack web development, building projects, and
-            continuously improving my programming skills.
+          A curious learner exploring new technologies, building projects,
+          and discovering my passion through continuous learning and experimentation.
           </p>
 
           <div className="flex gap-6 pt-4 min-h-[30px]">
