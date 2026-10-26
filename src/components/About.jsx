@@ -22,7 +22,7 @@ function About() {
             <h2 className="font-heading text-5xl lg:text-6xl font-semibold">
               About <span className="text-purple-500">Me</span>
             </h2>
-
+ 
             <div className="mt-5 h-1 w-24 rounded-full bg-purple-500"></div>
           </div>
 
