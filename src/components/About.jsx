@@ -76,8 +76,7 @@ function About() {
                 className="text-xl leading-[2.3rem]"
                 style={{ color: "var(--text-light)" }}
               >
-                I don't have my entire future figured out yet, and I'm okay
-                with that. Right now, my goal is to{" "}
+                I don't have my entire future figured out yet. Right now, my goal is to{" "}
                 <span className="font-semibold text-purple-500">
                   learn, explore, experiment, and find my passion
                 </span>
