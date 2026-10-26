@@ -22,7 +22,7 @@ function About() {
             <h2 className="font-heading text-5xl lg:text-6xl font-semibold">
               About <span className="text-purple-500">Me</span>
             </h2>
- 
+
             <div className="mt-5 h-1 w-24 rounded-full bg-purple-500"></div>
           </div>
 
@@ -34,53 +34,57 @@ function About() {
                 className="text-xl leading-[2.3rem]"
                 style={{ color: "var(--text-light)" }}
               >
-                My name is{" "}
+                Hey, I'm{" "}
                 <span className="font-semibold text-purple-500">
                   Ayushi Rajak
                 </span>
-                , and I am a Computer Science Engineering student with a passion
-                for creating intuitive and user-friendly web applications. I
-                enjoy turning ideas into real projects while continuously
-                learning new technologies.
+                , a Computer Science Engineering student who loves exploring
+                ideas, building things, and discovering what technology can
+                do. I'm still figuring out where my interests will take me,
+                and I see that as an exciting part of the journey. For me,
+                learning isn't just about mastering a skill; it's also about
+                asking questions, experimenting, and being open to new
+                possibilities.
               </p>
 
               <p
                 className="text-xl leading-[2.3rem]"
                 style={{ color: "var(--text-light)" }}
               >
-                Currently, I am focused on the{" "}
-                <span className="font-semibold text-pink-500">MERN Stack</span>{" "}
-                and strengthening my problem-solving skills through{" "}
+                I'm currently an intern at{" "}
                 <span className="font-semibold text-purple-500">
+                  IISc (Indian Institute of Science)
+                </span>
+                , where I'm beginning a new chapter of learning and
+                exploration. As a new joinee, I'm also learning{" "}
+                <span className="font-semibold text-pink-500">CAD</span> to
+                broaden my technical skills and explore a different side of
+                technology. Alongside this, I continue to strengthen my
+                foundations in{" "}
+                <span className="font-semibold text-purple-500">
+                  web development
+                </span>{" "}
+                and{" "}
+                <span className="font-semibold text-pink-500">
                   Data Structures &amp; Algorithms
                 </span>
-                . I am excited to explore{" "}
-                <span className="font-semibold text-pink-500">
-                  Artificial Intelligence
-                </span>
-                ,{" "}
-                <span className="font-semibold text-pink-500">
-                  Data Science
-                </span>
-                , and{" "}
-                <span className="font-semibold text-pink-500">
-                  Machine Learning
-                </span>{" "}
-                as I continue to broaden my knowledge and technical skills.
+                , while staying curious about fields like Artificial
+                Intelligence, Data Science, and Machine Learning.
               </p>
 
               <p
                 className="text-xl leading-[2.3rem]"
                 style={{ color: "var(--text-light)" }}
               >
-                My long-term goal is to become a{" "}
+                I don't have my entire future figured out yet, and I'm okay
+                with that. Right now, my goal is to{" "}
                 <span className="font-semibold text-purple-500">
-                  Machine Learning Engineer
+                  learn, explore, experiment, and find my passion
                 </span>
-                , combining software engineering and artificial intelligence to
-                develop practical and impactful solutions. I look forward to
-                furthering my education, building meaningful projects, and
-                developing the skills required to contribute to this field.
+                . I want to step outside my comfort zone, work on things
+                I've never tried before, and discover what genuinely excites
+                me. I'm learning to enjoy the process, embrace the unknown,
+                and grow one experience at a time.
               </p>
             </div>
 
@@ -117,12 +121,12 @@ function About() {
               </div>
 
               <div className="glass rounded-3xl p-8 text-center transition duration-300 hover:-translate-y-2 hover:border-pink-500/40">
-                <h3 className="text-4xl font-bold text-pink-500">ML</h3>
+                <h3 className="text-4xl font-bold text-pink-500">∞</h3>
                 <p
                   className="mt-4 text-base"
                   style={{ color: "var(--text-light)" }}
                 >
-                  Future Goal
+                  Things to Explore
                 </p>
               </div>
             </div>
