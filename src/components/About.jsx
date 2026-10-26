@@ -55,8 +55,8 @@ function About() {
                 <span className="font-semibold text-purple-500">
                   IISc (Indian Institute of Science)
                 </span>
-                , where I'm beginning a new chapter of learning and
-                exploration. As a new joinee, I'm also learning{" "}
+                where I'm beginning a new chapter of learning and
+                exploration. I'm learning{" "}
                 <span className="font-semibold text-pink-500">CAD</span> to
                 broaden my technical skills and explore a different side of
                 technology. Alongside this, I continue to strengthen my
